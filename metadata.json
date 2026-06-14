@@ -1,0 +1,6 @@
+{
+  "name": "Word Document Multimodal Translator",
+  "description": "Upload a Word document (.docx) to parse its text and embedded images. Text content is translated from Chinese to English with paragraph mapping, while embedded images are analyzed by multimodal Gemini to translate visual text, generating a synchronized English Word document for instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
